@@ -1,6 +1,6 @@
 # Advanced Python Port Scanner
 
-> 🚧 **Work in progress** – this project is still under development, and more changes are coming.
+> **Work in progress** – this project is still under development, and more changes are coming.
 
 A multi-threaded TCP port scanner written in Python.
 
